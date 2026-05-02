@@ -12,3 +12,5 @@ you will need to manually download the TIFs that are exported in the
 "Greater Kinshasa Area (Overview) Download SAR Flood Extents" section
 and load them into the pwd in Colab. a small modification (removing the path extention) will 
 also be needed in the plotting codes where the TIFs are read into the notebook. 
+
+May 2025 - Uploaded Kinshasa Flood Project to fix widget preview issues with GitHub
